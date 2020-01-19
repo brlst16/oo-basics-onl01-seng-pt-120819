@@ -6,7 +6,7 @@ def initialize(brand)
   @brand = brand
 end
 
-def cobble
+def cobble    #create cobble behavior method 
   puts "The shoe has been repaired."
 end
 
