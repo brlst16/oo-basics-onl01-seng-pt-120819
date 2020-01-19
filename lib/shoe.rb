@@ -8,7 +8,7 @@ end
 
 def cobble    #create cobble behavior method 
   puts "Your shoe is as good as new!"
-  @condition = "new"
+  @condition = "new"    #sets condition property to "new"
 end
 
 
