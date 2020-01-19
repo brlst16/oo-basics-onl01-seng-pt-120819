@@ -1,6 +1,7 @@
 # define new book class
-class Book  #open class
-  
+class Book  #open class with initialize method 
+  def initialize(title)
+    
   
 
 
